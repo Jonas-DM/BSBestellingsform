@@ -1,0 +1,19 @@
+c:\users\ll16081\documents\visual studio 2015\Projects\BSBestellingsform\BSBestellingsform\bin\Debug\BSBestellingsform.exe.config
+c:\users\ll16081\documents\visual studio 2015\Projects\BSBestellingsform\BSBestellingsform\bin\Debug\BSBestellingsform.exe
+c:\users\ll16081\documents\visual studio 2015\Projects\BSBestellingsform\BSBestellingsform\bin\Debug\BSBestellingsform.pdb
+c:\users\ll16081\documents\visual studio 2015\Projects\BSBestellingsform\BSBestellingsform\obj\Debug\BSBestellingsform.csprojResolveAssemblyReference.cache
+c:\users\ll16081\documents\visual studio 2015\Projects\BSBestellingsform\BSBestellingsform\obj\Debug\Overzicht.g.cs
+c:\users\ll16081\documents\visual studio 2015\Projects\BSBestellingsform\BSBestellingsform\obj\Debug\App.g.cs
+c:\users\ll16081\documents\visual studio 2015\Projects\BSBestellingsform\BSBestellingsform\obj\Debug\BSBestellingsform_MarkupCompile.cache
+c:\users\ll16081\documents\visual studio 2015\Projects\BSBestellingsform\BSBestellingsform\obj\Debug\BSBestellingsform_MarkupCompile.lref
+c:\users\ll16081\documents\visual studio 2015\Projects\BSBestellingsform\BSBestellingsform\obj\Debug\Overzicht.baml
+c:\users\ll16081\documents\visual studio 2015\Projects\BSBestellingsform\BSBestellingsform\obj\Debug\BSBestellingsform.g.resources
+c:\users\ll16081\documents\visual studio 2015\Projects\BSBestellingsform\BSBestellingsform\obj\Debug\BSBestellingsform.Properties.Resources.resources
+c:\users\ll16081\documents\visual studio 2015\Projects\BSBestellingsform\BSBestellingsform\obj\Debug\BSBestellingsform.csproj.GenerateResource.Cache
+c:\users\ll16081\documents\visual studio 2015\Projects\BSBestellingsform\BSBestellingsform\obj\Debug\BSBestellingsform.exe
+c:\users\ll16081\documents\visual studio 2015\Projects\BSBestellingsform\BSBestellingsform\obj\Debug\BSBestellingsform.pdb
+c:\users\ll16081\documents\visual studio 2015\Projects\BSBestellingsform\BSBestellingsform\obj\Debug\mainwindow.g.cs
+c:\users\ll16081\documents\visual studio 2015\Projects\BSBestellingsform\BSBestellingsform\obj\Debug\mainwindow.baml
+C:\Users\ll12052\Google Drive\school\2017-2018\GIP\17_18_6ITN_HES_GIP\Programmeren\Code\BSBestellingsform\BSBestellingsform\BSBestellingsform\bin\Debug\BSBestellingsform.exe.config
+C:\Users\ll12052\Google Drive\school\2017-2018\GIP\17_18_6ITN_HES_GIP\Programmeren\Code\BSBestellingsform\BSBestellingsform\BSBestellingsform\obj\Debug\BSBestellingsform.exe
+C:\Users\ll12052\Google Drive\school\2017-2018\GIP\17_18_6ITN_HES_GIP\Programmeren\Code\BSBestellingsform\BSBestellingsform\BSBestellingsform\obj\Debug\BSBestellingsform.pdb
